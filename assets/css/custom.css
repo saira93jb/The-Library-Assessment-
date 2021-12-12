@@ -1,0 +1,48 @@
+.profile_label{
+	font-weight:bold;
+	font-size: 14px;
+}
+
+.profile_row{
+	padding-top:10px;
+	font-size: 14px;
+}
+.formlogo{
+	text-align: center;
+    padding: 10px;
+}
+#engineerslist_wrapper{
+	font-size:14px !important;
+}
+body, p, span,label, div, input, a{
+	font-size:14px !important;
+}
+#search_book_api{
+	margin-top: 29px;
+    height: 33px;
+}
+input, select{
+	height: 33px !important;
+	border-radius: 0 !important;
+}
+div[class^="col-md"], div {
+padding-left:3px;
+padding-right:3px;
+}
+.btn, .list-group-item{
+	border-radius:0 !important;
+}
+
+.booksdropdown{
+	height: 200px;
+	overflow: scroll;
+}
+.d-flex{
+	padding-left: 0px;
+}
+a.list-group-item-action:hover{
+background-color: beige;
+}
+.whitetext{
+	color:white;
+}
